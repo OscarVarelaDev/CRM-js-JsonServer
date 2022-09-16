@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis Edgar",
+      "email": "luis@gmail.com",
+      "telefono": "5558417457",
+      "empresa": "USA",
+      "id": 28
+    },
+    {
+      "nombre": "Abigail",
+      "email": "abi@gmail.com",
+      "telefono": "55919191928",
+      "empresa": "Banamex",
+      "id": 29
+    },
+    {
+      "nombre": "Oscar Varela Gallardo",
+      "email": "oskrblink@hotmail.com",
+      "telefono": "5560609210",
+      "empresa": "UTN",
+      "id": 30
+    }
+  ]
+}
